@@ -1,3 +1,26 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
 # Gradle files
 .gradle/
 build/
@@ -32,3 +55,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*~.nib

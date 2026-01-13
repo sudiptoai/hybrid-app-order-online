@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Food Order Online",
+    "slug": "hybrid-app-order-online",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6B6B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.foodorder.app"
+    },
+    "android": {
+      "package": "com.foodorder.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B6B"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
