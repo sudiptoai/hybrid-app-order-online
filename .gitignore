@@ -63,3 +63,4 @@ google-services.json
 *.swp
 *.swo
 *~.nib
+validate.js
